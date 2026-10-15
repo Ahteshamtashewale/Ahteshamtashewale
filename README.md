@@ -135,36 +135,6 @@ AWS fundamentals · cloud security concepts · networking and TCP/IP · secure a
 Open to collaborating on AI/ML, cybersecurity, adversarial ML research, cloud-security, computer-vision, student open-source projects and hackathon ideas.
 
 <br/>
-
-## ⚙️ Setup Guide
-
-Run most of my Python-based AI/ML and security projects locally:
-
-```bash
-# 1. Clone
-git clone https://github.com/Ahteshamtashewale/<repository-name>.git
-cd <repository-name>
-
-# 2. Virtual environment
-python -m venv venv
-venv\Scripts\activate          # Windows
-source venv/bin/activate       # Linux / macOS
-
-# 3. Dependencies
-pip install -r requirements.txt
-# or, for a fresh ML environment:
-pip install numpy pandas matplotlib scikit-learn opencv-python tensorflow
-
-# 4. Run
-python main.py                 # or: python app.py
-jupyter notebook               # for notebook-based projects
-
-# 5. Deactivate
-deactivate
-```
-
-> **Note:** Each repository may differ. Check its own `README.md` and `requirements.txt` first.
-
 <br/>
 
 ## 📊 GitHub Stats
