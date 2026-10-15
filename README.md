@@ -1,521 +1,194 @@
 <div align="center">
+
 <a href="https://github.com/Ahteshamtashewale">
-  <img src="https://readme-typing-svg.demolab.com?# Ahtesham Hussain Tashewale
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Ahtesham+Hussain+Tashewale;Cybersecurity+%7C+AI%2FML+%7C+Cloud;Building+Secure+%26+Intelligent+Solutions" alt="header" />
+</a>
 
-### Computer Science Engineering Student | Cybersecurity | AI/ML | AWS Cloud
+<h3>Ahtesham Hussain Tashewale</h3>
 
-<p align="left">
-  <a href="https://github.com/Ahteshamtashewale">
-    <img src="https://img.shields.io/badge/GitHub-AhteshamTashewale-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahtesham%20Hussain%20Tashewale-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+<a href="https://github.com/Ahteshamtashewale"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-## About Me
+</div>
 
-I am a Computer Science Engineering student from India with a strong interest in cybersecurity, artificial intelligence, machine learning, and cloud computing.
+<br/>
 
-My work focuses on building practical projects, understanding security problems, experimenting with machine-learning models, and learning how secure applications can be deployed in cloud environments.
+## 👋 About Me
 
-- Focused on Cybersecurity and Cloud Security
-- Interested in AI/ML, Deep Learning, and Adversarial Machine Learning
-- Learning and building with AWS Cloud
-- Working primarily with Python
-- Exploring full-stack development
-- Interested in networking, security labs, and real-world problem solving
-- Smart India Hackathon participant
+I'm a Computer Science Engineering student from India with a strong interest in **Cybersecurity, Artificial Intelligence, Machine Learning and Cloud Computing**. I enjoy turning technical concepts into practical projects, experimenting with ML models, exploring security problems, and learning how secure applications are deployed in the cloud.
 
-## Current Focus
+- 🔐 Focused on Cybersecurity & Cloud Security
+- 🤖 Interested in AI/ML, Deep Learning & Adversarial Machine Learning
+- ☁️ Learning and building with AWS
+- 🐍 Working primarily with Python
+- 🌐 Exploring full-stack development
+- 🏆 Smart India Hackathon participant
+- 📚 Currently improving DSA, AI/ML, cybersecurity and cloud skills
 
-**Adversarial Attack & Defense Visualization**
+<br/>
 
-A security-focused machine-learning project for visualizing how adversarial attacks affect model predictions and how different defense techniques can improve model robustness.
+## 🔭 Currently Working On
 
-The project explores:
+### 🛡️ Adversarial Attack & Defense Visualization
+A security-focused ML project that visualizes how adversarial attacks affect model predictions and how defense techniques improve robustness.
 
-- Adversarial examples
-- ML model robustness
-- Attack versus defense comparison
-- Deep-learning security
-- Visual analysis of model behaviour
+**Focus areas:** adversarial examples · model robustness · attack vs. defense comparison · deep-learning security · visual analysis of model behaviour
 
-## Featured Projects
+<br/>
 
-### 1. Adversarial Attack & Defense Visualization
+## 🚀 Featured Projects
 
-**Area:** AI/ML, Cybersecurity, Adversarial Machine Learning
+| # | Project | Area | Tech | What it does |
+|---|---------|------|------|--------------|
+| 1 | 🛡️ **Adversarial Attack & Defense Visualization** | AI/ML · Cybersecurity | Python, ML, Deep Learning | Shows the effect of adversarial attacks on predictions and compares defenses |
+| 2 | 💳 **Credit Card Fraud Detection** | ML · Cybersecurity | Python, Pandas, Scikit-learn | Classifies transactions to flag potential fraud |
+| 3 | 👁️ **Real-Time Face Detection** | Computer Vision | Python, OpenCV | Detects faces from a live camera feed |
+| 4 | 🔐 **Secure Login System** | Authentication | Python | Demonstrates secure login and access-control concepts |
+| 5 | 🔑 **Password Strength Analyzer** | Cybersecurity | Python | Scores passwords against common security criteria |
+| 6 | 🎣 **Phishing Awareness Lab** | Cybersecurity · Networking | Web Technologies | Educational demo of phishing and social-engineering patterns |
 
-**Outcome:**
-- Visualizes the effect of adversarial attacks on ML predictions
-- Makes adversarial ML concepts easier to understand
-- Helps compare attack and defense behaviour
-- Provides a foundation for security-focused ML experimentation
+<br/>
 
-**Technology:** Python, Machine Learning, Deep Learning
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 2. Credit Card Transaction Fraud Detection
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&theme=dark" alt="ai-ml" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="web" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" alt="databases" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git&theme=dark" alt="cloud-devops" />
+<br/>
+<img src="https://skillicons.dev/icons?i=github,postman,matlab&theme=dark" alt="tools" />
 
-**Area:** Machine Learning, Cybersecurity
+</div>
 
-**Outcome:**
-- Processes transaction data for fraud analysis
-- Applies machine-learning classification techniques
-- Helps identify potentially fraudulent transactions
-- Demonstrates a practical application of ML in financial security
+| Category | Skills |
+|----------|--------|
+| Programming | Python, Java, C, C++, JavaScript |
+| AI / ML | Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Matplotlib |
+| Cybersecurity | Cloud Security, Network Security, Authentication, Phishing Awareness, Adversarial ML |
+| Cloud & DevOps | AWS, Docker, Linux, Bash, Git |
+| Web | HTML, CSS, JavaScript, React, Node.js, Express |
+| Databases | MySQL, MongoDB, SQLite |
+| Tools | GitHub, Postman, MATLAB |
 
-**Technology:** Python, Pandas, Scikit-learn
+<br/>
 
----
+## ☁️ Cloud & Security Focus
 
-### 3. Real-Time Face Detection
+AWS fundamentals · cloud security concepts · networking and TCP/IP · secure authentication · security monitoring · ML security (adversarial attacks and defenses)
 
-**Area:** Computer Vision, AI
+<br/>
 
-**Outcome:**
-- Detects faces from a live camera feed
-- Demonstrates real-time computer-vision processing
-- Provides a practical introduction to image analysis
+## 📜 Certifications & Learning
 
-**Technology:** Python, OpenCV
+- ☁️ AWS Cloud Practitioner Essentials
+- 🌐 Cisco Networking Academy – Networking Basics
+- 🔐 Cybersecurity training and practical labs
+- 🤖 Machine Learning & Artificial Intelligence
+- 🌱 Currently learning: Advanced ML, Deep Learning, Adversarial ML, Computer Vision, DSA, Full-Stack Development
 
----
+<br/>
 
-### 4. Secure Login System
-
-**Area:** Cybersecurity, Authentication
-
-**Outcome:**
-- Demonstrates secure login and authentication concepts
-- Provides a foundation for understanding application security
-- Can be extended with stronger authentication and access-control mechanisms
-
-**Technology:** Python, Authentication, Security Concepts
-
----
-
-### 5. Password Strength Analyzer
-
-**Area:** Cybersecurity
-
-**Outcome:**
-- Evaluates passwords against common security criteria
-- Demonstrates password-security principles
-- Helps users understand stronger password practices
-
-**Technology:** Python, Cybersecurity
-
----
-
-### 6. Phishing Awareness Lab
-
-**Area:** Cybersecurity, Networking
-
-**Outcome:**
-- Demonstrates common phishing concepts in an educational environment
-- Improves awareness of suspicious links and social-engineering techniques
-- Provides a practical introduction to phishing analysis
-
-**Technology:** Cybersecurity, Networking, Web Technologies
-
-## Technical Skills
-
-### Programming
-`Python` `Java` `C` `C++` `JavaScript`
-
-### AI / Machine Learning
-`Machine Learning` `Deep Learning` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `OpenCV`
-
-### Cybersecurity
-`Cybersecurity` `Cloud Security` `Network Security` `Authentication` `Phishing Awareness` `Adversarial ML`
-
-### Cloud & DevOps
-`AWS` `Docker` `Linux` `Bash` `Git`
-
-### Web Development
-`HTML` `CSS` `JavaScript` `React` `Node.js` `Express`
-
-### Databases
-`MySQL` `MongoDB` `SQLite`
-
-### Tools
-`GitHub` `Postman` `MATLAB`
-
-## Certifications & Learning
-
-- AWS Cloud Practitioner Essentials
-- Cisco Networking Academy — Networking Basics
-- Cybersecurity training
-- Machine Learning and Artificial Intelligence
-- Cloud Computing and AWS
-
-## Experience & Activities
+## 🏆 Achievements & Activities
 
 - Smart India Hackathon participant
-- AI/ML project development
-- Cybersecurity projects and security labs
-- AWS Cloud learning and hands-on practice
-- Technical event and hackathon participation
+- Participated in and organized technical events and hackathons
+- Built AI/ML and cybersecurity projects
+- Completed AWS Cloud and Cisco Networking learning paths
 
-## Setup Guide
+<br/>
 
-The following setup can be used for most of my Python-based AI/ML and cybersecurity projects.
+## 📈 What I Build
 
-### 1. Clone the repository
+| Area | Focus |
+|------|-------|
+| 🤖 AI/ML | Classification, computer vision, model experimentation |
+| 🛡️ Cybersecurity | Secure systems, phishing awareness, security concepts |
+| ☁️ Cloud | AWS fundamentals, architecture and security |
+| 🔬 ML Security | Adversarial attacks, defenses, visualization |
+| 🌐 Development | Full-stack applications and APIs |
+| 📊 Data | Preprocessing, analysis, visualization |
 
-```bash
-git clone https://github.com/Ahteshamtashewale/<repository-name>.git
-cd <repository-name>
-```
+<br/>
 
-### 2. Create a virtual environment
-
-**Windows**
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-**Linux / macOS**
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 3. Install dependencies
-
-If the project contains `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
-For a new ML environment, commonly used packages include:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn opencv-python tensorflow
-```
-
-### 4. Run the project
-
-Check the repository instructions and run the appropriate entry file:
-
-```bash
-python main.py
-```
-
-For Jupyter-based projects:
-
-```bash
-jupyter notebook
-```
-
-### 5. Deactivate the environment
-
-```bash
-deactivate
-```
-
-> Each repository may have additional requirements. Always check its own `README.md`, `requirements.txt`, and configuration files before running it.
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahteshamtashewale&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahteshamtashewale&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahteshamtashewale&hide_border=true&theme=transparent" alt="GitHub streak">
-</p>
-
-## 2026 Goals
+## 🎯 2026 Goals
 
 - Build stronger AI/ML and cybersecurity projects
-- Explore adversarial machine learning in greater depth
+- Explore adversarial ML in greater depth
 - Improve cloud-security skills with AWS
-- Strengthen Data Structures and Algorithms
+- Strengthen Data Structures & Algorithms
 - Contribute to open-source projects
-- Participate in technical competitions and hackathons
+- Participate in more hackathons and competitions
 - Build production-ready projects
-- Prepare for a career in AI/ML, cybersecurity, and cloud security
+- Prepare for a career in AI/ML, cybersecurity and cloud security
 
-## Connect With Me
+<br/>
 
-**GitHub:**  
-https://github.com/Ahteshamtashewale
+## 🤝 Collaboration
 
-**LinkedIn:**  
-https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/
+Open to collaborating on AI/ML, cybersecurity, adversarial ML research, cloud-security, computer-vision, student open-source projects and hackathon ideas.
 
----
+<br/>
 
-<p align="center">
-  <strong>Learning. Building. Securing.</strong>
-</p>
-font=Poppins&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Ahtesham+Hussain+Tashewale;Cybersecurity+%7C+AI%2FML+%7C+Cloud;Building+Secure+%26+Intelligent+Solutions" alt="header" />
-</a>
-<h3>Computer Science Engineering Student | Cybersecurity | AI/ML | AWS Cloud</h3>
-<p>
-  <a href="https://github.com/Ahteshamtashewale">
-    <img src="https://img.shields.io/badge/GitHub-Ahteshamtashewale-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahtesham%20Hussain%20Tashewale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-</div>
----
-👋 About Me
-I'm Ahtesham Hussain Tashewale, a Computer Science Engineering student from India with a strong interest in Cybersecurity, Artificial Intelligence, Machine Learning, and Cloud Computing.
-I enjoy turning technical concepts into practical projects, experimenting with machine-learning models, exploring security problems, and learning how secure applications can be deployed and scaled in the cloud.
-🎓 Computer Science Engineering student
-🔐 Focused on Cybersecurity & Cloud Security
-🤖 Interested in AI/ML, Deep Learning & Adversarial Machine Learning
-☁️ Learning and building with AWS Cloud
-🐍 Strong interest in Python
-🌐 Exploring full-stack development
-🏆 Participated in Smart India Hackathon
-🧪 Interested in security labs, ML experimentation and real-world problem solving
-📚 Currently improving DSA, AI/ML, cybersecurity and cloud skills
----
-🔭 Currently Working On
-🛡️ Adversarial Attack & Defense Visualization
-A security-focused machine-learning project that helps visualize how adversarial attacks can influence ML models and how defense techniques can improve model robustness.
-Focus areas:
-Adversarial examples
-ML model robustness
-Attack vs. defense visualization
-Deep learning security
-Explainable visual analysis
----
-🚀 Featured Projects
-🛡️ Adversarial Attack & Defense Visualization
-AI/ML • Cybersecurity • Adversarial Machine Learning
-Outcome:
-Makes adversarial ML concepts easier to understand visually
-Demonstrates the effect of attacks on model predictions
-Provides a foundation for comparing defense techniques
-Helps students and researchers understand ML security concepts
----
-💳 Credit Card Transaction Fraud Detection
-Python • Pandas • Scikit-learn • Machine Learning
-Outcome:
-Processes transaction data for fraud analysis
-Applies machine-learning classification techniques
-Demonstrates a practical ML approach to financial fraud detection
-Provides a foundation for evaluating classification performance
----
-👁️ Real-Time Face Detection
-Python • OpenCV • Computer Vision
-Outcome:
-Detects faces from a live camera feed
-Demonstrates real-time computer-vision processing
-Provides a practical introduction to image-based detection
----
-🔐 Secure Login System
-Python • Authentication • Cybersecurity
-Outcome:
-Demonstrates secure authentication concepts
-Provides a foundation for login and access-control workflows
-Helps understand common application-security requirements
----
-🔑 Password Strength Analyzer
-Python • Cybersecurity
-Outcome:
-Evaluates passwords against common strength criteria
-Demonstrates basic password-security principles
-Helps users understand stronger authentication practices
----
-🎣 Phishing Awareness Lab
-Cybersecurity • Networking • Web Technologies
-Outcome:
-Demonstrates common phishing concepts in an educational environment
-Helps users recognize suspicious links and social-engineering patterns
-Promotes practical cybersecurity awareness
----
-🧠 Areas of Interest
-```text
-Cybersecurity
-Cloud Security
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Adversarial Machine Learning
-Computer Vision
-AWS Cloud
-Networking
-Full-Stack Development
-```
----
-🛠️ Tech Stack
-Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" alt="Programming Languages"/>
-</p>
-AI / Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and Machine Learning"/>
-</p>
-Libraries & Tools: Pandas • NumPy • Scikit-learn • OpenCV • Matplotlib
-Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Web Development"/>
-</p>
-Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases"/>
-</p>
-Cloud, DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,postman" alt="Cloud and Tools"/>
-</p>
----
-☁️ Cloud & Security
-I'm currently building my knowledge around:
-AWS Cloud fundamentals
-Cloud security concepts
-Networking and TCP/IP
-Secure authentication
-Cybersecurity fundamentals
-Security monitoring
-Machine-learning security
-Adversarial attacks and defenses
----
-📜 Certifications & Learning
-☁️ AWS Cloud Practitioner Essentials
-🌐 Cisco Networking Academy – Networking Basics
-🔐 Cybersecurity learning and practical labs
-🤖 Machine Learning & Artificial Intelligence
-☁️ Cloud Computing & AWS
----
-🏆 Achievements & Activities
-🏆 Smart India Hackathon Participant
-💻 Participated in technical hackathons and project activities
-🔬 Developed AI/ML and cybersecurity projects
-🎯 Organized and participated in technical events
-☁️ Completed AWS Cloud learning
-🌐 Completed Cisco Networking Basics learning
----
-📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahteshamtashewale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahteshamtashewale&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</div>
----
-🔥 GitHub Streak
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Ahteshamtashewale&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
----
-🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ahteshamtashewale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
-</div>
----
-📈 What I Build
-Area	What I Work On
-🤖 AI/ML	Classification, computer vision, model experimentation
-🛡️ Cybersecurity	Secure systems, phishing awareness, security concepts
-☁️ Cloud	AWS fundamentals, cloud architecture and security
-🔬 ML Security	Adversarial attacks, defenses and visualization
-🌐 Development	Full-stack applications and APIs
-📊 Data	Data preprocessing, analysis and visualization
----
-⚙️ Setup Guide
-Want to run one of my Python/ML projects locally?
-1. Clone the repository
+## ⚙️ Setup Guide
+
+Run most of my Python-based AI/ML and security projects locally:
+
 ```bash
+# 1. Clone
 git clone https://github.com/Ahteshamtashewale/<repository-name>.git
 cd <repository-name>
-```
-2. Create a virtual environment
-Windows
-```bash
+
+# 2. Virtual environment
 python -m venv venv
-venv\Scripts\activate
-```
-Linux / macOS
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-3. Install dependencies
-If the project contains `requirements.txt`:
-```bash
+venv\Scripts\activate          # Windows
+source venv/bin/activate       # Linux / macOS
+
+# 3. Dependencies
 pip install -r requirements.txt
-```
-For a new ML project, common packages include:
-```bash
+# or, for a fresh ML environment:
 pip install numpy pandas matplotlib scikit-learn opencv-python tensorflow
-```
-4. Run the project
-Use the command provided by the individual repository. For example:
-```bash
-python main.py
-```
-or:
-```bash
-python app.py
-```
-5. Deactivate the environment
-```bash
+
+# 4. Run
+python main.py                 # or: python app.py
+jupyter notebook               # for notebook-based projects
+
+# 5. Deactivate
 deactivate
 ```
-> **Note:** Each project may have different dependencies and startup commands. Check the project's own README before running it.
----
-🌱 Currently Learning
-```text
-Advanced Machine Learning
-Deep Learning
-Adversarial Machine Learning
-Cybersecurity
-Cloud Security
-AWS
-Computer Vision
-Data Structures & Algorithms
-Full-Stack Development
-```
----
-🎯 2026 Goals
-🚀 Build more advanced AI/ML projects
-🛡️ Strengthen cybersecurity and cloud-security skills
-☁️ Advance my AWS knowledge
-🧠 Research and experiment with adversarial ML
-💻 Contribute to open-source projects
-🏆 Participate in more hackathons
-📚 Improve DSA and problem-solving
-💼 Prepare for a career combining AI/ML, cybersecurity and cloud
----
-🤝 Collaboration
-I'm interested in collaborating on:
-AI/ML projects
-Cybersecurity projects
-Adversarial ML research
-Cloud-security projects
-Computer-vision applications
-Student open-source projects
-Hackathon ideas and implementations
-If you have an interesting project, feel free to connect with me on GitHub or LinkedIn.
----
-📫 Connect With Me
+
+> **Note:** Each repository may differ. Check its own `README.md` and `requirements.txt` first.
+
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
-<a href="https://github.com/Ahteshamtashewale">
-<img src="https://img.shields.io/badge/GitHub-Ahteshamtashewale-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Ahtesham%20Hussain%20Tashewale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ahteshamtashewale&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahteshamtashewale&layout=compact&theme=dark" alt="Top Languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Ahteshamtashewale&theme=dark" alt="GitHub Streak" />
+
 </div>
----
+
+<br/>
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Ahteshamtashewale
+- LinkedIn: https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/
+
 <div align="center">
-💡 "Learning today. Building tomorrow. Securing the future."
+
+**Learning. Building. Securing.**
+
 ⭐ If you find my projects useful, consider giving them a star!
+
 </div>
