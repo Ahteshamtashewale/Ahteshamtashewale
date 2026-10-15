@@ -1,6 +1,266 @@
 <div align="center">
 <a href="https://github.com/Ahteshamtashewale">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Ahtesham+Hussain+Tashewale;Cybersecurity+%7C+AI%2FML+%7C+Cloud;Building+Secure+%26+Intelligent+Solutions" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?# Ahtesham Hussain Tashewale
+
+### Computer Science Engineering Student | Cybersecurity | AI/ML | AWS Cloud
+
+<p align="left">
+  <a href="https://github.com/Ahteshamtashewale">
+    <img src="https://img.shields.io/badge/GitHub-AhteshamTashewale-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahtesham%20Hussain%20Tashewale-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+## About Me
+
+I am a Computer Science Engineering student from India with a strong interest in cybersecurity, artificial intelligence, machine learning, and cloud computing.
+
+My work focuses on building practical projects, understanding security problems, experimenting with machine-learning models, and learning how secure applications can be deployed in cloud environments.
+
+- Focused on Cybersecurity and Cloud Security
+- Interested in AI/ML, Deep Learning, and Adversarial Machine Learning
+- Learning and building with AWS Cloud
+- Working primarily with Python
+- Exploring full-stack development
+- Interested in networking, security labs, and real-world problem solving
+- Smart India Hackathon participant
+
+## Current Focus
+
+**Adversarial Attack & Defense Visualization**
+
+A security-focused machine-learning project for visualizing how adversarial attacks affect model predictions and how different defense techniques can improve model robustness.
+
+The project explores:
+
+- Adversarial examples
+- ML model robustness
+- Attack versus defense comparison
+- Deep-learning security
+- Visual analysis of model behaviour
+
+## Featured Projects
+
+### 1. Adversarial Attack & Defense Visualization
+
+**Area:** AI/ML, Cybersecurity, Adversarial Machine Learning
+
+**Outcome:**
+- Visualizes the effect of adversarial attacks on ML predictions
+- Makes adversarial ML concepts easier to understand
+- Helps compare attack and defense behaviour
+- Provides a foundation for security-focused ML experimentation
+
+**Technology:** Python, Machine Learning, Deep Learning
+
+---
+
+### 2. Credit Card Transaction Fraud Detection
+
+**Area:** Machine Learning, Cybersecurity
+
+**Outcome:**
+- Processes transaction data for fraud analysis
+- Applies machine-learning classification techniques
+- Helps identify potentially fraudulent transactions
+- Demonstrates a practical application of ML in financial security
+
+**Technology:** Python, Pandas, Scikit-learn
+
+---
+
+### 3. Real-Time Face Detection
+
+**Area:** Computer Vision, AI
+
+**Outcome:**
+- Detects faces from a live camera feed
+- Demonstrates real-time computer-vision processing
+- Provides a practical introduction to image analysis
+
+**Technology:** Python, OpenCV
+
+---
+
+### 4. Secure Login System
+
+**Area:** Cybersecurity, Authentication
+
+**Outcome:**
+- Demonstrates secure login and authentication concepts
+- Provides a foundation for understanding application security
+- Can be extended with stronger authentication and access-control mechanisms
+
+**Technology:** Python, Authentication, Security Concepts
+
+---
+
+### 5. Password Strength Analyzer
+
+**Area:** Cybersecurity
+
+**Outcome:**
+- Evaluates passwords against common security criteria
+- Demonstrates password-security principles
+- Helps users understand stronger password practices
+
+**Technology:** Python, Cybersecurity
+
+---
+
+### 6. Phishing Awareness Lab
+
+**Area:** Cybersecurity, Networking
+
+**Outcome:**
+- Demonstrates common phishing concepts in an educational environment
+- Improves awareness of suspicious links and social-engineering techniques
+- Provides a practical introduction to phishing analysis
+
+**Technology:** Cybersecurity, Networking, Web Technologies
+
+## Technical Skills
+
+### Programming
+`Python` `Java` `C` `C++` `JavaScript`
+
+### AI / Machine Learning
+`Machine Learning` `Deep Learning` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `OpenCV`
+
+### Cybersecurity
+`Cybersecurity` `Cloud Security` `Network Security` `Authentication` `Phishing Awareness` `Adversarial ML`
+
+### Cloud & DevOps
+`AWS` `Docker` `Linux` `Bash` `Git`
+
+### Web Development
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express`
+
+### Databases
+`MySQL` `MongoDB` `SQLite`
+
+### Tools
+`GitHub` `Postman` `MATLAB`
+
+## Certifications & Learning
+
+- AWS Cloud Practitioner Essentials
+- Cisco Networking Academy — Networking Basics
+- Cybersecurity training
+- Machine Learning and Artificial Intelligence
+- Cloud Computing and AWS
+
+## Experience & Activities
+
+- Smart India Hackathon participant
+- AI/ML project development
+- Cybersecurity projects and security labs
+- AWS Cloud learning and hands-on practice
+- Technical event and hackathon participation
+
+## Setup Guide
+
+The following setup can be used for most of my Python-based AI/ML and cybersecurity projects.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Ahteshamtashewale/<repository-name>.git
+cd <repository-name>
+```
+
+### 2. Create a virtual environment
+
+**Windows**
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+**Linux / macOS**
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+
+If the project contains `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+For a new ML environment, commonly used packages include:
+
+```bash
+pip install numpy pandas matplotlib scikit-learn opencv-python tensorflow
+```
+
+### 4. Run the project
+
+Check the repository instructions and run the appropriate entry file:
+
+```bash
+python main.py
+```
+
+For Jupyter-based projects:
+
+```bash
+jupyter notebook
+```
+
+### 5. Deactivate the environment
+
+```bash
+deactivate
+```
+
+> Each repository may have additional requirements. Always check its own `README.md`, `requirements.txt`, and configuration files before running it.
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahteshamtashewale&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahteshamtashewale&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
+</p>
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahteshamtashewale&hide_border=true&theme=transparent" alt="GitHub streak">
+</p>
+
+## 2026 Goals
+
+- Build stronger AI/ML and cybersecurity projects
+- Explore adversarial machine learning in greater depth
+- Improve cloud-security skills with AWS
+- Strengthen Data Structures and Algorithms
+- Contribute to open-source projects
+- Participate in technical competitions and hackathons
+- Build production-ready projects
+- Prepare for a career in AI/ML, cybersecurity, and cloud security
+
+## Connect With Me
+
+**GitHub:**  
+https://github.com/Ahteshamtashewale
+
+**LinkedIn:**  
+https://www.linkedin.com/in/ahtesham-hussain-tashewale-0994b32a5/
+
+---
+
+<p align="center">
+  <strong>Learning. Building. Securing.</strong>
+</p>
+font=Poppins&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Ahtesham+Hussain+Tashewale;Cybersecurity+%7C+AI%2FML+%7C+Cloud;Building+Secure+%26+Intelligent+Solutions" alt="header" />
 </a>
 <h3>Computer Science Engineering Student | Cybersecurity | AI/ML | AWS Cloud</h3>
 <p>
